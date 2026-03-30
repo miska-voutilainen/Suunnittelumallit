@@ -1,4 +1,4 @@
-package templatemethod;
+package templemethod;
 
 public abstract class Game {
 

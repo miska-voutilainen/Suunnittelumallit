@@ -1,4 +1,4 @@
-package templatemethod;
+package templemethod;
 
 public class Main {
     public static void main(String[] args) {
